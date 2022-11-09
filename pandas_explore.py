@@ -54,7 +54,7 @@ def run_clean_and_read_products(url) -> pd.DataFrame():
     return df
 
 
-def apply_mappers(df) -> pd.DataFrame:
+def apply_mappers(df, BASE_URL) -> pd.DataFrame:
     """
     Apply:
         1)  Apply CPI Map. Item ID -> COICOP4 ID
@@ -62,12 +62,12 @@ def apply_mappers(df) -> pd.DataFrame:
     """
 
     cpi_map = pd.read_csv(
-        "./data/mappers/cpi_classification_framework_2022.csv", dtype="str"
+        BASE_URL + "data/mappers/cpi_classification_framework_2022.csv", dtype="str"
     )
     cpi_map = cpi_map[["item_id", "coicop4_id"]]
 
     coicop_cat_map = pd.read_csv(
-        "./data/mappers/coicop_category_map.csv", dtype="str"
+        BASE_URL + "data/mappers/coicop_category_map.csv", dtype="str"
     )
 
     df = df.merge(cpi_map, on="item_id", how="left")
@@ -79,6 +79,6 @@ def apply_mappers(df) -> pd.DataFrame:
 if __name__ == "main":
 
     df = run_clean_and_read_products(BASE_URL + PRICE_QUOTES_STEM)
-    df = apply_mappers(df)
+    df = apply_mappers(df, BASE_URL)
 
     df
