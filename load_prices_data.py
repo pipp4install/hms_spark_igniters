@@ -4,7 +4,7 @@ from pyspark.sql import (
     DataFrame,
     functions as F,
     SparkSession,
-
+    Window,
 )
 
 
@@ -74,42 +74,89 @@ def load_and_clean_data(urls):
     return reduce(DataFrame.unionByName, dfs)
 
 
+def apply_coicop_mapper(df, mapper):
+    """Reduce the item id to coicop4"""
+    return (
+        df
+        .join(mapper, on='item_id', how='left')
+        .withColumnRenamed('desc', 'product')
+        .select('quote_date', 'item_id', 'product', 'region', 'price', )
+    )
+
+
+def calculate_price_change(df):
+    """Calculate the month on month price differences."""
+    previous_month = (
+        Window.partitionBy('region', 'item_id')
+        .orderBy('quote_date')
+    )
+
+    calc_price_difference = (
+        F.when(F.col('prev_price').isNotNull(),
+               F.col('price') - F.col('prev_price'))
+        .otherwise(F.lit(None))
+    )
+
+    round_differences = (
+         F.when(F.col('price_diff').isNotNull(),
+                F.round(F.col('price_diff'), scale=2))
+        .otherwise(F.lit(None))
+    )
+
+    return (
+        df
+        # Create a column with the previous month's price.
+        .withColumn('prev_price', F.lag('price').over(previous_month))
+        # Create a column containing the price differences.
+        .withColumn('price_diff', calc_price_difference)
+        .withColumn('price_diff', round_differences)
+    )
+
+
 github = "https://raw.githubusercontent.com/"
-repo = "pipp4install/hms_spark_igniters/main/data/prices/"
+repo = "pipp4install/hms_spark_igniters/main/data/"
 urls = [
-    f"{github}{repo}202001.csv",
-    f"{github}{repo}202002.csv",
-    f"{github}{repo}202003.csv",
-    f"{github}{repo}202004.csv",
-    f"{github}{repo}202005.csv",
-    f"{github}{repo}202006.csv",
-    f"{github}{repo}202007.csv",
-    f"{github}{repo}202008.csv",
-    f"{github}{repo}202009.csv",
-    f"{github}{repo}202010.csv",
-    f"{github}{repo}202011.csv",
-    f"{github}{repo}202012.csv",
-    f"{github}{repo}202101.csv",
-    f"{github}{repo}202102.csv",
-    f"{github}{repo}202103.csv",
-    f"{github}{repo}202104.csv",
-    f"{github}{repo}202105.csv",
-    f"{github}{repo}202106.csv",
-    f"{github}{repo}202107.csv",
-    f"{github}{repo}202108.csv",
-    f"{github}{repo}202109.csv",
-    f"{github}{repo}202110.csv",
-    f"{github}{repo}202111.csv",
-    f"{github}{repo}202112.csv",
-    f"{github}{repo}202201.csv",
-    f"{github}{repo}202202.csv",
-    f"{github}{repo}202203.csv",
-    f"{github}{repo}202204.csv",
-    f"{github}{repo}202205.csv",
-    f"{github}{repo}202206.csv",
-    f"{github}{repo}202207.csv",
-    f"{github}{repo}202208.csv",
-    f"{github}{repo}202209.csv",
+    f"{github}{repo}prices/202001.csv",
+    f"{github}{repo}prices/202002.csv",
+    f"{github}{repo}prices/202003.csv",
+    f"{github}{repo}prices/202004.csv",
+    f"{github}{repo}prices/202005.csv",
+    f"{github}{repo}prices/202006.csv",
+    f"{github}{repo}prices/202007.csv",
+    f"{github}{repo}prices/202008.csv",
+    f"{github}{repo}prices/202009.csv",
+    f"{github}{repo}prices/202010.csv",
+    f"{github}{repo}prices/202011.csv",
+    f"{github}{repo}prices/202012.csv",
+    f"{github}{repo}prices/202101.csv",
+    f"{github}{repo}prices/202102.csv",
+    f"{github}{repo}prices/202103.csv",
+    f"{github}{repo}prices/202104.csv",
+    f"{github}{repo}prices/202105.csv",
+    f"{github}{repo}prices/202106.csv",
+    f"{github}{repo}prices/202107.csv",
+    f"{github}{repo}prices/202108.csv",
+    f"{github}{repo}prices/202109.csv",
+    f"{github}{repo}prices/202110.csv",
+    f"{github}{repo}prices/202111.csv",
+    f"{github}{repo}prices/202112.csv",
+    f"{github}{repo}prices/202201.csv",
+    f"{github}{repo}prices/202202.csv",
+    f"{github}{repo}prices/202203.csv",
+    f"{github}{repo}prices/202204.csv",
+    f"{github}{repo}prices/202205.csv",
+    f"{github}{repo}prices/202206.csv",
+    f"{github}{repo}prices/202207.csv",
+    f"{github}{repo}prices/202208.csv",
+    f"{github}{repo}prices/202209.csv",
 ]
 
 df = load_and_clean_data(urls)
+
+mapper = spark.read.csv(
+    f"{github}{repo}coicop_mapper.csv",
+    header=True,
+)
+df = apply_coicop_mapper(df, mapper)
+
+df = calculate_price_change(df)
