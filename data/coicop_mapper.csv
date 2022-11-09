@@ -1,0 +1,1542 @@
+﻿item_id,coicop4_id,start_date,end_date,desc
+210101,10101,199602,200401,Bread and cereals
+210102,10101,199602,999999,Bread and cereals
+210105,10101,199602,200301,Bread and cereals
+210106,10101,199602,999999,Bread and cereals
+210107,10101,199602,200401,Bread and cereals
+210108,10101,200002,201001,Bread and cereals
+210109,10101,200102,200501,Bread and cereals
+210110,10101,200302,200401,Bread and cereals
+210111,10101,200402,999999,Bread and cereals
+210112,10101,200402,200601,Bread and cereals
+210113,10101,200402,999999,Bread and cereals
+210114,10101,201002,999999,Bread and cereals
+210201,10101,199602,999999,Bread and cereals
+210202,10101,199602,200301,Bread and cereals
+210204,10101,199602,999999,Bread and cereals
+210205,10101,199602,200601,Bread and cereals
+210209,10101,199602,200601,Bread and cereals
+210210,10101,200002,200601,Bread and cereals
+210211,10107,201802,999999,Vegetables including potatoes and tubers
+210212,10101,200302,999999,Bread and cereals
+210213,10101,200602,999999,Bread and cereals
+210214,10101,200602,999999,Bread and cereals
+210215,10101,201002,999999,Bread and cereals
+210216,10101,201202,999999,Bread and cereals
+210217,10101,201602,999999,Bread and cereals
+210218,10101,201902,999999,Bread and cereals
+210219,10101,202002,999999,Bread and cereals
+210221,10101,202102,999999,Bread and cereals
+210301,10101,199602,999999,Bread and cereals
+210302,10101,199602,999999,Bread and cereals
+210304,10101,199602,200601,Bread and cereals
+210305,10101,199602,200501,Bread and cereals
+210306,10101,199602,200301,Bread and cereals
+210312,10101,199602,200001,Bread and cereals
+210316,10101,199602,199801,Bread and cereals
+210317,10101,199602,202001,Bread and cereals
+210318,10101,199602,200601,Bread and cereals
+210319,10101,199802,202201,Bread and cereals
+210320,10101,200002,999999,Bread and cereals
+210321,10101,200302,999999,Bread and cereals
+210322,10101,200402,201701,Bread and cereals
+210323,10101,201702,999999,Bread and cereals
+210324,10101,202002,999999,Bread and cereals
+210403,10102,199602,999999,Meat
+210405,10102,199602,200001,Meat
+210406,10102,199602,999999,Meat
+210407,10102,199602,200201,Meat
+210413,10102,199602,202001,Meat
+210414,10102,199602,999999,Meat
+210415,10102,200202,201501,Meat
+210416,10102,202002,999999,Meat
+210501,10102,199602,201501,Meat
+210502,10102,199602,202101,Meat
+210504,10102,200002,200201,Meat
+210505,10102,200402,200601,Meat
+210506,10102,201502,999999,Meat
+210507,10102,202102,999999,Meat
+210604,10102,199602,200901,Meat
+210606,10102,199602,202001,Meat
+210701,10102,199602,199701,Meat
+210703,10102,199602,999999,Meat
+210706,10102,199702,201101,Meat
+210802,10102,199602,999999,Meat
+210805,10102,199602,200101,Meat
+210808,10102,199602,999999,Meat
+210903,10102,199602,200301,Meat
+210904,10102,199602,200401,Meat
+210905,10102,199602,999999,Meat
+210906,10102,199602,200601,Meat
+210907,10102,199602,200301,Meat
+210908,10102,199602,200301,Meat
+210909,10102,200302,200601,Meat
+210910,10102,200302,999999,Meat
+210911,10102,200402,202001,Meat
+210912,10102,200602,202001,Meat
+210913,10102,200902,999999,Meat
+210914,10102,202002,999999,Meat
+211001,10102,199602,199901,Meat
+211003,10102,199602,199901,Meat
+211004,10102,199602,200501,Meat
+211005,10102,199602,200001,Meat
+211007,10102,199602,999999,Meat
+211008,10102,199602,199801,Meat
+211009,10102,199602,200201,Meat
+211010,10102,199602,201801,Meat
+211011,10102,199602,999999,Meat
+211012,10102,199602,200001,Meat
+211013,10102,199802,200201,Meat
+211014,10102,199902,999999,Meat
+211015,10102,200202,200501,Meat
+211016,10102,200202,201801,Meat
+211017,10102,200202,200601,Meat
+211018,10102,200302,201601,Meat
+211019,10102,200502,999999,Meat
+211020,10102,200502,201301,Meat
+211021,10102,200602,201501,Meat
+211022,10102,201102,201501,Meat
+211023,10102,201302,999999,Meat
+211024,10102,201302,999999,Meat
+211025,10102,201502,999999,Meat
+211026,10102,201502,999999,Meat
+211027,10102,201502,999999,Meat
+211028,10102,201602,201701,Meat
+211029,10102,201602,999999,Meat
+211030,10102,201702,999999,Meat
+211031,10102,201802,999999,Meat
+211101,10103,199602,999999,Fish
+211104,10103,199602,200101,Fish
+211105,10103,200102,999999,Fish
+211106,10103,200402,999999,Fish
+211202,10103,199602,200201,Fish
+211203,10103,199602,200401,Fish
+211204,10103,199602,200301,Fish
+211207,10103,199602,999999,Fish
+211209,10103,200202,200401,Fish
+211210,10103,200402,999999,Fish
+211211,10103,201002,999999,Fish
+211301,10105,199602,201301,Oils and fats
+211304,10105,199602,201301,Oils and fats
+211305,10105,201302,999999,Oils and fats
+211306,10105,201302,999999,Oils and fats
+211404,10105,199602,200701,Oils and fats
+211407,10105,199602,999999,Oils and fats
+211408,10105,200702,999999,Oils and fats
+211409,10105,201902,999999,Oils and fats
+211501,10104,199602,999999,"Milk, cheese and eggs"
+211502,10104,199602,200901,"Milk, cheese and eggs"
+211504,10104,199602,200701,"Milk, cheese and eggs"
+211505,10104,199602,199801,"Milk, cheese and eggs"
+211506,10104,199802,999999,"Milk, cheese and eggs"
+211507,10104,200002,201801,"Milk, cheese and eggs"
+211508,10104,200202,200401,"Milk, cheese and eggs"
+211509,10104,200402,999999,"Milk, cheese and eggs"
+211510,10104,200902,999999,"Milk, cheese and eggs"
+211511,10104,201202,999999,"Milk, cheese and eggs"
+211601,10104,199602,200901,"Milk, cheese and eggs"
+211602,10104,199602,202201,"Milk, cheese and eggs"
+211603,10104,200902,202201,"Milk, cheese and eggs"
+211604,10104,202202,999999,"Milk, cheese and eggs"
+211701,10104,199602,200201,"Milk, cheese and eggs"
+211704,10104,199602,200401,"Milk, cheese and eggs"
+211705,10104,199602,200401,"Milk, cheese and eggs"
+211707,10104,199602,999999,"Milk, cheese and eggs"
+211708,10104,199602,200101,"Milk, cheese and eggs"
+211709,10104,199602,999999,"Milk, cheese and eggs"
+211710,10104,199602,999999,"Milk, cheese and eggs"
+211711,10104,199602,200301,"Milk, cheese and eggs"
+211712,10104,200002,200201,"Milk, cheese and eggs"
+211713,10104,201402,999999,"Milk, cheese and eggs"
+211714,10104,201702,999999,"Milk, cheese and eggs"
+211802,10104,199602,199901,"Milk, cheese and eggs"
+211803,10104,199602,200101,"Milk, cheese and eggs"
+211804,10104,199602,200201,"Milk, cheese and eggs"
+211805,10104,199602,199901,"Milk, cheese and eggs"
+211806,10104,199902,200901,"Milk, cheese and eggs"
+211807,10104,199902,999999,"Milk, cheese and eggs"
+211808,10104,200102,999999,"Milk, cheese and eggs"
+211809,10104,200102,200901,"Milk, cheese and eggs"
+211810,10104,200202,200501,"Milk, cheese and eggs"
+211812,10104,200302,200601,"Milk, cheese and eggs"
+211813,10104,200702,201501,"Milk, cheese and eggs"
+211814,10104,200902,999999,"Milk, cheese and eggs"
+211815,10104,200902,999999,"Milk, cheese and eggs"
+211816,10104,201002,999999,"Milk, cheese and eggs"
+211901,10201,199602,999999,"Coffee, tea and cocoa"
+211902,10201,199602,200201,"Coffee, tea and cocoa"
+211903,10201,200102,200301,"Coffee, tea and cocoa"
+211904,10201,200302,999999,"Coffee, tea and cocoa"
+211905,10201,201902,999999,"Coffee, tea and cocoa"
+212001,10202,199602,999999,"Mineral waters, soft drinks and juices"
+212003,10202,199602,200501,"Mineral waters, soft drinks and juices"
+212004,10202,199602,200501,"Mineral waters, soft drinks and juices"
+212005,10202,199602,200801,"Mineral waters, soft drinks and juices"
+212006,10202,199602,999999,"Mineral waters, soft drinks and juices"
+212008,10202,199602,999999,"Mineral waters, soft drinks and juices"
+212009,10202,199602,201001,"Mineral waters, soft drinks and juices"
+212010,10202,199602,999999,"Mineral waters, soft drinks and juices"
+212011,10202,199602,201901,"Mineral waters, soft drinks and juices"
+212012,10202,199602,201601,"Mineral waters, soft drinks and juices"
+212013,10202,199602,200601,"Mineral waters, soft drinks and juices"
+212014,10202,200002,200201,"Mineral waters, soft drinks and juices"
+212015,10202,200102,999999,"Mineral waters, soft drinks and juices"
+212016,10202,200302,999999,"Mineral waters, soft drinks and juices"
+212017,10202,200502,999999,"Mineral waters, soft drinks and juices"
+212018,10202,200502,201001,"Mineral waters, soft drinks and juices"
+212019,10202,200802,202101,"Mineral waters, soft drinks and juices"
+212020,10202,201002,999999,"Mineral waters, soft drinks and juices"
+212021,10202,201002,999999,"Mineral waters, soft drinks and juices"
+212022,10202,201402,999999,"Mineral waters, soft drinks and juices"
+212023,10202,201602,999999,"Mineral waters, soft drinks and juices"
+212024,10202,201702,999999,"Mineral waters, soft drinks and juices"
+212025,10202,201902,999999,"Mineral waters, soft drinks and juices"
+212026,10202,201902,999999,"Mineral waters, soft drinks and juices"
+212027,10202,202102,999999,"Mineral waters, soft drinks and juices"
+212101,10108,199602,999999,"Sugar, jam, syrups, chocolate and confectionery"
+212106,10108,199602,999999,"Sugar, jam, syrups, chocolate and confectionery"
+212107,10108,201402,999999,"Sugar, jam, syrups, chocolate and confectionery"
+212202,10108,199602,999999,"Sugar, jam, syrups, chocolate and confectionery"
+212203,10108,199602,200201,"Sugar, jam, syrups, chocolate and confectionery"
+212207,10108,199602,201201,"Sugar, jam, syrups, chocolate and confectionery"
+212209,10108,199602,200201,"Sugar, jam, syrups, chocolate and confectionery"
+212211,10108,199602,999999,"Sugar, jam, syrups, chocolate and confectionery"
+212212,10101,199802,200401,Bread and cereals
+212214,10108,199602,999999,"Sugar, jam, syrups, chocolate and confectionery"
+212215,10108,199602,201201,"Sugar, jam, syrups, chocolate and confectionery"
+212217,10108,199602,999999,"Sugar, jam, syrups, chocolate and confectionery"
+212218,10108,199602,999999,"Sugar, jam, syrups, chocolate and confectionery"
+212219,10108,200202,201801,"Sugar, jam, syrups, chocolate and confectionery"
+212220,10108,200202,200601,"Sugar, jam, syrups, chocolate and confectionery"
+212221,10108,200202,200301,"Sugar, jam, syrups, chocolate and confectionery"
+212222,10108,200302,999999,"Sugar, jam, syrups, chocolate and confectionery"
+212223,10108,201202,999999,"Sugar, jam, syrups, chocolate and confectionery"
+212224,10108,201202,999999,"Sugar, jam, syrups, chocolate and confectionery"
+212225,10108,201602,999999,"Sugar, jam, syrups, chocolate and confectionery"
+212226,10108,201702,999999,"Sugar, jam, syrups, chocolate and confectionery"
+212227,10108,201802,202101,"Sugar, jam, syrups, chocolate and confectionery"
+212228,10108,202102,999999,"Sugar, jam, syrups, chocolate and confectionery"
+212360,10107,200402,202201,Vegetables including potatoes and tubers
+212361,10107,200402,202201,Vegetables including potatoes and tubers
+212391,10107,199602,199901,Vegetables including potatoes and tubers
+212392,10107,199602,200401,Vegetables including potatoes and tubers
+212395,10107,199602,199901,Vegetables including potatoes and tubers
+212397,10107,199602,200201,Vegetables including potatoes and tubers
+212398,10107,199902,200401,Vegetables including potatoes and tubers
+212399,10107,199902,202201,Vegetables including potatoes and tubers
+212402,10107,199602,999999,Vegetables including potatoes and tubers
+212404,10107,199602,999999,Vegetables including potatoes and tubers
+212405,10107,199602,999999,Vegetables including potatoes and tubers
+212406,10107,200002,200501,Vegetables including potatoes and tubers
+212407,10107,200302,200501,Vegetables including potatoes and tubers
+212408,10107,200502,999999,Vegetables including potatoes and tubers
+212409,10107,201802,999999,Vegetables including potatoes and tubers
+212501,10107,199602,199901,Vegetables including potatoes and tubers
+212503,10107,199602,199901,Vegetables including potatoes and tubers
+212504,10107,199602,999999,Vegetables including potatoes and tubers
+212505,10107,199602,199901,Vegetables including potatoes and tubers
+212506,10107,199602,199901,Vegetables including potatoes and tubers
+212507,10107,199602,199901,Vegetables including potatoes and tubers
+212508,10107,199602,199901,Vegetables including potatoes and tubers
+212510,10107,199602,999999,Vegetables including potatoes and tubers
+212511,10107,199602,999999,Vegetables including potatoes and tubers
+212513,10107,199602,199901,Vegetables including potatoes and tubers
+212514,10107,199602,199901,Vegetables including potatoes and tubers
+212515,10107,199902,999999,Vegetables including potatoes and tubers
+212516,10107,199902,999999,Vegetables including potatoes and tubers
+212517,10107,199902,200701,Vegetables including potatoes and tubers
+212518,10107,199902,999999,Vegetables including potatoes and tubers
+212519,10107,199902,999999,Vegetables including potatoes and tubers
+212520,10107,199902,999999,Vegetables including potatoes and tubers
+212521,10107,199902,200101,Vegetables including potatoes and tubers
+212522,10107,199902,200201,Vegetables including potatoes and tubers
+212523,10107,200002,200201,Vegetables including potatoes and tubers
+212524,10107,200002,200201,Vegetables including potatoes and tubers
+212525,10107,200102,200301,Vegetables including potatoes and tubers
+212526,10107,200102,201601,Vegetables including potatoes and tubers
+212527,10107,200202,999999,Vegetables including potatoes and tubers
+212528,10107,200302,201301,Vegetables including potatoes and tubers
+212529,10107,200502,200701,Vegetables including potatoes and tubers
+212530,10107,200702,999999,Vegetables including potatoes and tubers
+212531,10107,200702,999999,Vegetables including potatoes and tubers
+212532,10107,200802,999999,Vegetables including potatoes and tubers
+212533,10107,201302,999999,Vegetables including potatoes and tubers
+212534,10107,201502,201801,Vegetables including potatoes and tubers
+212535,10107,201802,999999,Vegetables including potatoes and tubers
+212601,10107,199602,999999,Vegetables including potatoes and tubers
+212603,10107,199602,999999,Vegetables including potatoes and tubers
+212608,10107,199602,999999,Vegetables including potatoes and tubers
+212609,10107,199602,999999,Vegetables including potatoes and tubers
+212611,10107,199602,200001,Vegetables including potatoes and tubers
+212612,10107,202102,999999,Vegetables including potatoes and tubers
+212613,10107,202202,999999,Vegetables including potatoes and tubers
+212701,10106,199602,199901,Fruit
+212702,10106,199602,199901,Fruit
+212703,10106,199602,199901,Fruit
+212705,10106,199602,199901,Fruit
+212706,10106,199602,199901,Fruit
+212707,10106,199602,199901,Fruit
+212708,10106,199602,199901,Fruit
+212709,10106,199602,999999,Fruit
+212710,10106,199602,999999,Fruit
+212711,10106,199602,200201,Fruit
+212712,10106,199602,999999,Fruit
+212714,10106,199602,200901,Fruit
+212715,10106,199602,999999,Fruit
+212716,10106,199902,999999,Fruit
+212717,10106,199902,999999,Fruit
+212718,10106,199902,999999,Fruit
+212719,10106,199902,999999,Fruit
+212720,10106,199902,999999,Fruit
+212721,10106,199902,200201,Fruit
+212722,10106,199902,999999,Fruit
+212723,10106,200102,200601,Fruit
+212724,10106,200602,201601,Fruit
+212725,10106,200802,999999,Fruit
+212726,10106,200902,999999,Fruit
+212727,10106,200902,201801,Fruit
+212728,10106,201202,999999,Fruit
+212729,10106,201302,201801,Fruit
+212730,10106,201402,999999,Fruit
+212731,10106,201502,999999,Fruit
+212732,10106,201602,999999,Fruit
+212733,10106,201802,999999,Fruit
+212734,10106,201802,999999,Fruit
+212805,10106,199602,199801,Fruit
+212806,10106,199602,999999,Fruit
+212807,10106,199602,999999,Fruit
+212808,10106,201102,999999,Fruit
+212901,10109,199602,200001,Food products nec
+212905,10107,199602,999999,Vegetables including potatoes and tubers
+212907,10109,199602,200201,Food products nec
+212910,10109,199602,999999,Food products nec
+212911,10109,199602,200001,Food products nec
+212912,10101,199602,200001,Bread and cereals
+212913,10108,199802,200201,"Sugar, jam, syrups, chocolate and confectionery"
+212914,10108,199802,201201,"Sugar, jam, syrups, chocolate and confectionery"
+212916,10109,199602,200101,Food products nec
+212917,10109,199602,999999,Food products nec
+212918,10109,199602,999999,Food products nec
+212920,10109,199602,200001,Food products nec
+212921,10109,199602,200601,Food products nec
+212922,10109,199602,200901,Food products nec
+212923,10109,199602,999999,Food products nec
+212924,10101,199602,201501,Bread and cereals
+212925,10109,199602,200001,Food products nec
+212926,10101,199602,199701,Bread and cereals
+212927,10109,199802,201001,Food products nec
+212928,10107,199802,999999,Vegetables including potatoes and tubers
+212929,10101,200002,200301,Bread and cereals
+212930,10109,200102,999999,Food products nec
+212931,10102,200202,200501,Meat
+212932,10107,200202,200801,Vegetables including potatoes and tubers
+212933,10108,200202,999999,"Sugar, jam, syrups, chocolate and confectionery"
+212934,10101,200302,999999,Bread and cereals
+212935,10109,200302,200501,Food products nec
+212936,10109,200902,999999,Food products nec
+212937,10109,200902,999999,Food products nec
+212938,10108,201202,999999,"Sugar, jam, syrups, chocolate and confectionery"
+212939,10101,201502,999999,Bread and cereals
+212940,10109,201502,999999,Food products nec
+212941,10101,201802,999999,Bread and cereals
+212942,10107,202002,999999,Vegetables including potatoes and tubers
+212943,10101,202202,999999,Bread and cereals
+212944,10107,202202,999999,Vegetables including potatoes and tubers
+212945,10109,202202,999999,Food products nec
+213001,10201,199602,202101,"Coffee, tea and cocoa"
+213003,10201,199602,999999,"Coffee, tea and cocoa"
+213004,10201,199602,200601,"Coffee, tea and cocoa"
+213005,10201,201302,999999,"Coffee, tea and cocoa"
+213006,10201,201602,999999,"Coffee, tea and cocoa"
+213007,10201,202102,999999,"Coffee, tea and cocoa"
+220104,110101,199602,200601,Restaurants & cafes
+220106,110101,199602,201301,Restaurants & cafes
+220107,110101,199602,999999,Restaurants & cafes
+220108,110101,199602,199701,Restaurants & cafes
+220109,110101,199602,199701,Restaurants & cafes
+220110,110101,199602,199701,Restaurants & cafes
+220111,110101,199602,202001,Restaurants & cafes
+220112,110101,199702,200601,Restaurants & cafes
+220113,110101,199702,200601,Restaurants & cafes
+220114,110101,199702,200601,Restaurants & cafes
+220115,110101,200502,200901,Restaurants & cafes
+220116,110101,200502,999999,Restaurants & cafes
+220117,110101,200502,999999,Restaurants & cafes
+220118,110101,200602,201601,Restaurants & cafes
+220119,110101,200602,201201,Restaurants & cafes
+220120,110101,200602,999999,Restaurants & cafes
+220121,110101,200602,999999,Restaurants & cafes
+220122,110101,200602,999999,Restaurants & cafes
+220123,110101,200702,999999,Restaurants & cafes
+220124,110101,200802,999999,Restaurants & cafes
+220125,110101,200902,999999,Restaurants & cafes
+220126,110101,201202,201601,Restaurants & cafes
+220127,110101,201302,201601,Restaurants & cafes
+220128,110101,201602,999999,Restaurants & cafes
+220201,110102,199602,200301,Canteens
+220202,110102,199602,200301,Canteens
+220203,110102,199602,200301,Canteens
+220204,110102,199602,200301,Canteens
+220205,110102,199602,201401,Canteens
+220206,110102,199602,200501,Canteens
+220207,110102,199602,200001,Canteens
+220208,110102,200002,999999,Canteens
+220209,110102,200302,999999,Canteens
+220210,110102,200302,999999,Canteens
+220211,110102,200502,201901,Canteens
+220212,110102,200502,202101,Canteens
+220213,110102,200502,201301,Canteens
+220214,110102,201402,999999,Canteens
+220301,110101,199602,999999,Restaurants & cafes
+220303,110101,199602,999999,Restaurants & cafes
+220304,110101,199602,201401,Restaurants & cafes
+220305,110101,199602,999999,Restaurants & cafes
+220310,110101,199602,999999,Restaurants & cafes
+220311,110101,199602,200001,Restaurants & cafes
+220314,110101,199602,200201,Restaurants & cafes
+220315,110101,199602,200201,Restaurants & cafes
+220316,110101,200002,999999,Restaurants & cafes
+220317,110101,200202,201801,Restaurants & cafes
+220318,110101,200202,999999,Restaurants & cafes
+220319,110101,200202,999999,Restaurants & cafes
+220320,110101,200202,999999,Restaurants & cafes
+220321,110101,200302,999999,Restaurants & cafes
+220322,110101,200302,202001,Restaurants & cafes
+220323,110101,200302,999999,Restaurants & cafes
+220324,110101,200502,999999,Restaurants & cafes
+220325,110101,200702,999999,Restaurants & cafes
+220326,110101,201202,999999,Restaurants & cafes
+220327,110101,201802,999999,Restaurants & cafes
+220328,110101,202002,999999,Restaurants & cafes
+310102,110101,199602,999999,Restaurants & cafes
+310103,110101,199602,200301,Restaurants & cafes
+310104,110101,199602,999999,Restaurants & cafes
+310105,110101,199602,199701,Restaurants & cafes
+310106,110101,199602,200901,Restaurants & cafes
+310107,110101,199602,200001,Restaurants & cafes
+310108,110101,199602,200401,Restaurants & cafes
+310109,110101,200302,999999,Restaurants & cafes
+310110,110101,200302,999999,Restaurants & cafes
+310111,110101,200402,999999,Restaurants & cafes
+310112,110101,200602,201801,Restaurants & cafes
+310113,110101,200902,201701,Restaurants & cafes
+310114,110101,201702,999999,Restaurants & cafes
+310201,20103,199602,199701,Beer
+310202,20103,199602,200301,Beer
+310203,20103,199602,200401,Beer
+310204,20103,199602,199701,Beer
+310205,20102,199602,200901,Wine
+310206,20103,199602,199801,Beer
+310207,20103,199702,999999,Beer
+310208,20101,199702,200201,Spirits
+310209,20103,199802,200101,Beer
+310210,20103,200102,200401,Beer
+310211,20103,200102,200401,Beer
+310212,20103,200102,200401,Beer
+310213,20103,200402,201101,Beer
+310214,20103,200402,200801,Beer
+310215,20103,200402,999999,Beer
+310216,20103,200402,999999,Beer
+310217,20103,200802,999999,Beer
+310218,20102,200902,201701,Wine
+310219,20103,201202,999999,Beer
+310220,20103,201502,999999,Beer
+310221,20102,201702,999999,Wine
+310222,20102,201702,999999,Wine
+310301,110101,199602,999999,Restaurants & cafes
+310302,110101,199602,999999,Restaurants & cafes
+310303,110101,199602,199701,Restaurants & cafes
+310304,110101,199602,200301,Restaurants & cafes
+310305,110101,199602,200601,Restaurants & cafes
+310306,110101,199802,999999,Restaurants & cafes
+310307,110101,199802,999999,Restaurants & cafes
+310308,10202,200002,200401,"Mineral waters, soft drinks and juices"
+310309,110101,200102,999999,Restaurants & cafes
+310310,110101,200302,999999,Restaurants & cafes
+310311,110101,200402,200501,Restaurants & cafes
+310312,110101,200402,200501,Restaurants & cafes
+310313,110101,200502,200601,Restaurants & cafes
+310314,110101,200602,201301,Restaurants & cafes
+310315,110101,200602,999999,Restaurants & cafes
+310316,110101,202002,999999,Restaurants & cafes
+310401,20101,199602,999999,Spirits
+310403,20101,199602,999999,Spirits
+310404,20101,199602,200401,Spirits
+310405,20101,199602,999999,Spirits
+310406,20102,199602,999999,Wine
+310407,20102,199602,200501,Wine
+310409,20102,199602,200401,Wine
+310412,20102,199602,200401,Wine
+310415,20102,199602,200001,Wine
+310416,20102,200002,200401,Wine
+310417,20101,200202,201701,Spirits
+310418,20102,200302,200601,Wine
+310419,20102,200402,999999,Wine
+310420,20102,200402,999999,Wine
+310421,20102,200402,999999,Wine
+310422,20102,200402,999999,Wine
+310423,20102,200602,999999,Wine
+310424,20102,200602,200901,Wine
+310425,20102,200902,999999,Wine
+310426,20102,201102,999999,Wine
+310427,20101,201302,999999,Spirits
+310428,20101,201602,999999,Spirits
+310429,20101,201702,999999,Spirits
+310430,20101,202002,999999,Spirits
+320102,20200,199602,200501,Tobacco
+320103,20200,199602,199701,Tobacco
+320105,20200,199602,200201,Tobacco
+320107,20200,199602,200201,Tobacco
+320108,20200,199602,999999,Tobacco
+320109,20200,199602,200201,Tobacco
+320110,20200,199602,200801,Tobacco
+320111,20200,199602,199701,Tobacco
+320112,20200,199702,201701,Tobacco
+320113,20200,199702,200801,Tobacco
+320114,20200,200202,200501,Tobacco
+320115,20200,200202,999999,Tobacco
+320116,20200,200202,200301,Tobacco
+320117,20200,200302,200401,Tobacco
+320118,20200,200402,201301,Tobacco
+320119,20200,200502,201101,Tobacco
+320120,20200,200502,200601,Tobacco
+320121,20200,200602,201701,Tobacco
+320122,20200,200802,999999,Tobacco
+320123,20200,201502,999999,Tobacco
+320124,20200,201602,999999,Tobacco
+320125,20200,201702,202201,Tobacco
+320126,20200,202202,999999,Tobacco
+320201,20200,199602,200201,Tobacco
+320205,20200,199602,999999,Tobacco
+320206,20200,199602,999999,Tobacco
+410105,40100,199602,999999,Actual rentals for housing
+410107,110200,200002,999999,Accommodation services
+410108,40100,200202,999999,Actual rentals for housing
+410109,40100,201302,201501,Actual rentals for housing
+410110,40100,201302,201501,Actual rentals for housing
+410115,40100,201502,999999,Actual rentals for housing
+410401,40403,199602,999999,Sewerage collection
+410402,40401,199602,999999,Water supply
+410403,40401,199602,999999,Water supply
+410404,40401,199602,200301,Water supply
+410405,40403,200102,999999,Sewerage collection
+410501,40302,199602,200501,Services for maintenance and repair
+410502,40302,199602,199901,Services for maintenance and repair
+410504,40302,199602,199901,Services for maintenance and repair
+410508,40302,199602,999999,Services for maintenance and repair
+410509,40302,199602,999999,Services for maintenance and repair
+410511,40302,199602,201001,Services for maintenance and repair
+410512,40302,199902,201001,Services for maintenance and repair
+410513,40302,199602,199701,Services for maintenance and repair
+410514,40302,199602,200101,Services for maintenance and repair
+410515,40302,199602,200101,Services for maintenance and repair
+410516,40302,200002,201301,Services for maintenance and repair
+410517,40302,200102,999999,Services for maintenance and repair
+410518,40302,200502,999999,Services for maintenance and repair
+410602,40301,199602,999999,Materials for maintenance and repair
+410603,40301,199602,201401,Materials for maintenance and repair
+410604,40301,199602,199701,Materials for maintenance and repair
+410605,40301,199602,201501,Materials for maintenance and repair
+410607,40301,199602,999999,Materials for maintenance and repair
+410610,50500,199602,201601,Tools and equipment for house and garden
+410611,50500,199602,999999,Tools and equipment for house and garden
+410613,50500,199602,199701,Tools and equipment for house and garden
+410614,50500,199602,999999,Tools and equipment for house and garden
+410618,40301,199602,201101,Materials for maintenance and repair
+410619,40301,199602,202001,Materials for maintenance and repair
+410620,40301,199602,200501,Materials for maintenance and repair
+410621,40301,199602,999999,Materials for maintenance and repair
+410622,40301,199602,201601,Materials for maintenance and repair
+410623,40302,199702,200901,Services for maintenance and repair
+410624,40301,199702,200501,Materials for maintenance and repair
+410625,50500,199702,999999,Tools and equipment for house and garden
+410626,40301,199702,201501,Materials for maintenance and repair
+410627,50500,200202,201201,Tools and equipment for house and garden
+410628,40301,200202,201301,Materials for maintenance and repair
+410629,40301,200502,999999,Materials for maintenance and repair
+410630,40301,200602,201501,Materials for maintenance and repair
+410631,40301,200702,999999,Materials for maintenance and repair
+410632,50500,200902,999999,Tools and equipment for house and garden
+410633,40301,201102,999999,Materials for maintenance and repair
+410636,40301,201502,201601,Materials for maintenance and repair
+410637,40301,201502,999999,Materials for maintenance and repair
+410638,50601,201502,999999,Non-durable household goods
+410639,40301,201602,999999,Materials for maintenance and repair
+410703,40100,199602,200001,Actual rentals for housing
+420101,40504,199602,202201,Solid Fuels
+420102,40504,199602,199801,Solid Fuels
+420103,40504,199602,999999,Solid Fuels
+420104,40504,199602,200001,Solid Fuels
+420201,40501,199602,999999,Electricity
+420301,40502,199602,999999,Gas All
+420401,40503,199602,200001,Liquid Fuels
+420402,40503,199602,200001,Liquid Fuels
+420403,40503,199602,200001,Liquid Fuels
+420404,40502,199602,999999,Gas All
+420405,40503,199902,999999,Liquid Fuels
+430101,50101,199602,999999,Furniture and furnishings
+430102,50101,199602,199901,Furniture and furnishings
+430103,50101,199602,200501,Furniture and furnishings
+430104,50101,199602,999999,Furniture and furnishings
+430105,50101,199602,199901,Furniture and furnishings
+430106,50101,199602,199901,Furniture and furnishings
+430108,50101,199602,202201,Furniture and furnishings
+430110,50101,199602,200601,Furniture and furnishings
+430112,50101,199602,201401,Furniture and furnishings
+430117,50101,199602,199901,Furniture and furnishings
+430118,50101,199602,201701,Furniture and furnishings
+430119,50101,199602,999999,Furniture and furnishings
+430120,50101,199602,999999,Furniture and furnishings
+430121,50101,199702,199801,Furniture and furnishings
+430122,50101,199702,202201,Furniture and furnishings
+430123,50101,199702,200601,Furniture and furnishings
+430124,50101,199702,200401,Furniture and furnishings
+430125,50101,199702,199801,Furniture and furnishings
+430126,50101,199702,200101,Furniture and furnishings
+430127,50101,199802,999999,Furniture and furnishings
+430128,50101,199802,200101,Furniture and furnishings
+430129,50101,199902,201701,Furniture and furnishings
+430130,50101,200102,200301,Furniture and furnishings
+430131,50101,200202,200501,Furniture and furnishings
+430132,50101,200302,999999,Furniture and furnishings
+430133,50101,200302,999999,Furniture and furnishings
+430134,50101,200302,999999,Furniture and furnishings
+430135,50101,200402,201901,Furniture and furnishings
+430136,50101,200502,999999,Furniture and furnishings
+430137,50101,200502,999999,Furniture and furnishings
+430138,50101,200602,999999,Furniture and furnishings
+430139,50101,201302,999999,Furniture and furnishings
+430140,50101,201402,999999,Furniture and furnishings
+430141,50101,201702,999999,Furniture and furnishings
+430142,50101,201802,999999,Furniture and furnishings
+430143,50101,201902,999999,Furniture and furnishings
+430144,50101,202202,999999,Furniture and furnishings
+430202,50102,199602,200301,Carpets and other floor coverings
+430203,50102,199602,200801,Carpets and other floor coverings
+430204,50102,199602,201401,Carpets and other floor coverings
+430206,50200,199602,201801,Household textiles
+430211,50200,199602,999999,Household textiles
+430213,50101,200002,200301,Furniture and furnishings
+430214,50200,199602,200101,Household textiles
+430215,50102,199602,200801,Carpets and other floor coverings
+430216,50200,199602,999999,Household textiles
+430219,50200,199602,200201,Household textiles
+430221,50102,199702,199801,Carpets and other floor coverings
+430222,50102,199702,200901,Carpets and other floor coverings
+430223,50200,199702,200101,Household textiles
+430224,50200,199702,999999,Household textiles
+430225,50102,199802,200001,Carpets and other floor coverings
+430226,50102,200002,201701,Carpets and other floor coverings
+430227,50102,200102,202201,Carpets and other floor coverings
+430228,50200,200102,999999,Household textiles
+430229,50200,200202,999999,Household textiles
+430230,50102,200802,202101,Carpets and other floor coverings
+430231,50102,200902,201201,Carpets and other floor coverings
+430232,50102,201202,201401,Carpets and other floor coverings
+430233,50102,201402,999999,Carpets and other floor coverings
+430234,50102,201402,999999,Carpets and other floor coverings
+430235,50102,201702,999999,Carpets and other floor coverings
+430236,50200,201802,999999,Household textiles
+430237,50102,202102,999999,Carpets and other floor coverings
+430301,50301,199602,200401,Major appliances and small electric goods
+430304,50301,199602,999999,Major appliances and small electric goods
+430305,50301,199602,200401,Major appliances and small electric goods
+430306,50301,199602,200501,Major appliances and small electric goods
+430307,50301,199602,999999,Major appliances and small electric goods
+430311,50301,199602,200801,Major appliances and small electric goods
+430312,80200,199602,200201,Telephone and telefax equipment and services
+430314,50301,199602,200401,Major appliances and small electric goods
+430315,50500,199702,200501,Tools and equipment for house and garden
+430316,80200,199802,200201,Telephone and telefax equipment and services
+430317,50301,199902,999999,Major appliances and small electric goods
+430318,50301,199902,200401,Major appliances and small electric goods
+430319,50301,199902,200501,Major appliances and small electric goods
+430320,120102,199902,200601,Appliances and products for personal care
+430321,120102,199902,999999,Appliances and products for personal care
+430322,50101,200102,200301,Furniture and furnishings
+430323,80200,200202,999999,Telephone and telefax equipment and services
+430324,80200,200202,200301,Telephone and telefax equipment and services
+430325,50301,200402,201301,Major appliances and small electric goods
+430326,50301,200402,200701,Major appliances and small electric goods
+430327,50301,200402,200501,Major appliances and small electric goods
+430328,50301,200402,200501,Major appliances and small electric goods
+430329,50301,200402,200501,Major appliances and small electric goods
+430330,50301,200502,200601,Major appliances and small electric goods
+430331,50301,200502,200601,Major appliances and small electric goods
+430332,50301,200502,200601,Major appliances and small electric goods
+430333,50301,200502,200901,Major appliances and small electric goods
+430334,80200,200302,201401,Telephone and telefax equipment and services
+430335,120102,200602,201001,Appliances and products for personal care
+430336,50301,200602,200701,Major appliances and small electric goods
+430337,50301,200602,200701,Major appliances and small electric goods
+430338,50301,200602,200701,Major appliances and small electric goods
+430339,50301,200702,201301,Major appliances and small electric goods
+430340,50301,200702,200801,Major appliances and small electric goods
+430341,50301,200702,200801,Major appliances and small electric goods
+430342,50301,200702,200801,Major appliances and small electric goods
+430344,50301,200802,200901,Major appliances and small electric goods
+430345,50301,200802,200901,Major appliances and small electric goods
+430346,50301,200802,200901,Major appliances and small electric goods
+430347,50301,200902,201001,Major appliances and small electric goods
+430348,50301,200902,201001,Major appliances and small electric goods
+430349,50301,200902,201001,Major appliances and small electric goods
+430350,50301,200902,201101,Major appliances and small electric goods
+430351,120102,201002,999999,Appliances and products for personal care
+430352,50301,201002,201501,Major appliances and small electric goods
+430353,50301,201002,201101,Major appliances and small electric goods
+430354,50301,201002,201501,Major appliances and small electric goods
+430355,50301,201102,999999,Major appliances and small electric goods
+430356,50301,201102,999999,Major appliances and small electric goods
+430357,80200,201102,999999,Telephone and telefax equipment and services
+430358,50301,201302,999999,Major appliances and small electric goods
+430359,50301,201302,999999,Major appliances and small electric goods
+430360,80200,201402,201701,Telephone and telefax equipment and services
+430361,50301,201502,999999,Major appliances and small electric goods
+430362,50301,201502,999999,Major appliances and small electric goods
+430363,120102,201902,999999,Appliances and products for personal care
+430404,50400,199602,200401,"Glassware, tableware and household utensils"
+430405,50400,199602,201201,"Glassware, tableware and household utensils"
+430407,50400,199602,999999,"Glassware, tableware and household utensils"
+430408,50400,199602,200101,"Glassware, tableware and household utensils"
+430409,50400,199602,999999,"Glassware, tableware and household utensils"
+430410,50400,199602,199701,"Glassware, tableware and household utensils"
+430413,50301,199602,999999,Major appliances and small electric goods
+430414,50301,199602,999999,Major appliances and small electric goods
+430415,50400,199602,200501,"Glassware, tableware and household utensils"
+430416,50500,199602,199701,Tools and equipment for house and garden
+430417,50400,199602,200101,"Glassware, tableware and household utensils"
+430418,50400,199702,999999,"Glassware, tableware and household utensils"
+430419,50400,200102,999999,"Glassware, tableware and household utensils"
+430420,50400,200102,201901,"Glassware, tableware and household utensils"
+430421,50400,200202,200401,"Glassware, tableware and household utensils"
+430422,50400,200402,999999,"Glassware, tableware and household utensils"
+430423,50400,200502,999999,"Glassware, tableware and household utensils"
+430424,50400,201902,999999,"Glassware, tableware and household utensils"
+430425,50400,201902,999999,"Glassware, tableware and household utensils"
+430501,90503,199602,200501,"Misc. printed matter, stationery, drawing materials"
+430503,90503,199602,999999,"Misc. printed matter, stationery, drawing materials"
+430505,50601,199602,999999,Non-durable household goods
+430507,50601,199602,999999,Non-durable household goods
+430509,50601,199602,999999,Non-durable household goods
+430510,120102,199602,200501,Appliances and products for personal care
+430511,50500,199602,199801,Tools and equipment for house and garden
+430513,50500,199602,201801,Tools and equipment for house and garden
+430515,90503,199602,201901,"Misc. printed matter, stationery, drawing materials"
+430516,50601,199602,199701,Non-durable household goods
+430517,50500,199602,199801,Tools and equipment for house and garden
+430518,50601,199602,202201,Non-durable household goods
+430519,50601,199602,201901,Non-durable household goods
+430520,50601,199602,200401,Non-durable household goods
+430521,120102,199602,200401,Appliances and products for personal care
+430522,50601,199702,200401,Non-durable household goods
+430523,50601,199802,200301,Non-durable household goods
+430524,50500,199802,999999,Tools and equipment for house and garden
+430525,50601,201502,999999,Non-durable household goods
+430526,90503,200102,999999,"Misc. printed matter, stationery, drawing materials"
+430527,90503,200102,999999,"Misc. printed matter, stationery, drawing materials"
+430528,50601,200202,200401,Non-durable household goods
+430529,50601,200302,999999,Non-durable household goods
+430530,90503,200302,999999,"Misc. printed matter, stationery, drawing materials"
+430531,50601,200402,999999,Non-durable household goods
+430532,50601,200402,200501,Non-durable household goods
+430533,50601,200402,999999,Non-durable household goods
+430534,50601,200402,200601,Non-durable household goods
+430535,90503,200502,999999,"Misc. printed matter, stationery, drawing materials"
+430536,120102,200502,999999,Appliances and products for personal care
+430537,50601,200502,201501,Non-durable household goods
+430538,50601,201502,999999,Non-durable household goods
+430539,50500,201802,999999,Tools and equipment for house and garden
+430540,50601,201902,999999,Non-durable household goods
+430541,50500,202102,999999,Tools and equipment for house and garden
+430542,50601,202202,999999,Non-durable household goods
+430543,50601,202202,999999,Non-durable household goods
+430608,90304,199602,200301,"Pets, related products and services"
+430611,90304,199602,200301,"Pets, related products and services"
+430612,90304,199602,201101,"Pets, related products and services"
+430613,90304,199602,999999,"Pets, related products and services"
+430614,90304,199602,200901,"Pets, related products and services"
+430615,90304,199602,200201,"Pets, related products and services"
+430616,90304,199902,200301,"Pets, related products and services"
+430617,90304,200202,999999,"Pets, related products and services"
+430618,90304,200202,200601,"Pets, related products and services"
+430619,90304,200302,201901,"Pets, related products and services"
+430620,90304,200302,200501,"Pets, related products and services"
+430621,90304,200302,999999,"Pets, related products and services"
+430622,90304,200302,999999,"Pets, related products and services"
+430623,90304,200502,999999,"Pets, related products and services"
+430624,90304,200902,999999,"Pets, related products and services"
+430625,90304,201402,999999,"Pets, related products and services"
+430626,90304,201902,999999,"Pets, related products and services"
+430627,90304,202202,999999,"Pets, related products and services"
+440101,50602,199602,999999,Domestic services and household services
+440102,30200,199602,200301,Footwear including repairs
+440103,30104,199602,200301,"Cleaning, repair and hire of clothing"
+440104,30104,199602,999999,"Cleaning, repair and hire of clothing"
+440105,70204,199602,999999,Other services
+440110,90304,199602,200301,"Pets, related products and services"
+440111,120400,200001,200101,Social protection
+440112,50303,199902,999999,Repair of household appliances
+440113,50602,199602,999999,Domestic services and household services
+440114,120301,199702,200901,"Jewellery, clocks and watches"
+440115,90105,199602,199901,Repair of audio-visual equipment & related products
+440116,50303,199902,999999,Repair of household appliances
+440117,90105,199902,200801,Repair of audio-visual equipment & related products
+440118,90105,199902,999999,Repair of audio-visual equipment & related products
+440119,70302,200102,200401,Passenger transport by road
+440120,120400,200102,999999,Social protection
+440121,110101,200102,999999,Restaurants & cafes
+440122,120700,200402,999999,Other services nec
+440123,70302,200402,999999,Passenger transport by road
+440125,50602,200502,201401,Domestic services and household services
+440126,50602,200502,999999,Domestic services and household services
+440127,70302,201802,999999,Passenger transport by road
+440128,120400,200502,999999,Social protection
+440129,120400,200602,999999,Social protection
+440130,120400,200602,201401,Social protection
+440131,120301,200902,999999,"Jewellery, clocks and watches"
+440132,30104,201402,999999,"Cleaning, repair and hire of clothing"
+440202,120700,199602,199901,Other services nec
+440204,120700,201202,999999,Other services nec
+440205,120700,199602,200101,Other services nec
+440206,120700,199602,200101,Other services nec
+440208,120502,199602,999999,House contents insurance
+440213,120700,199602,200001,Other services nec
+440214,120700,199602,200001,Other services nec
+440215,120700,199602,199901,Other services nec
+440216,120602,199602,200101,Other financial services nec
+440217,120700,199602,199801,Other services nec
+440218,120700,200002,999999,Other services nec
+440219,120602,199602,200201,Other financial services nec
+440220,120602,199602,201701,Other financial services nec
+440221,120602,199602,200401,Other financial services nec
+440222,100000,200001,200101,Education
+440223,120700,199602,199801,Other services nec
+440224,70204,199702,999999,Other services
+440225,80200,199702,200401,Telephone and telefax equipment and services
+440226,120700,199802,199901,Other services nec
+440227,120700,199802,999999,Other services nec
+440228,100000,199810,199912,Education
+440229,120700,200002,999999,Other services nec
+440230,100000,200002,999999,Education
+440231,120700,200002,999999,Other services nec
+440232,120400,200102,999999,Social protection
+440233,120700,200102,999999,Other services nec
+440234,120602,200201,202001,Other financial services nec
+440235,120602,200201,201501,Other financial services nec
+440236,120602,200201,201901,Other financial services nec
+440237,120602,200201,999999,Other financial services nec
+440239,100000,200102,999999,Education
+440240,120700,200202,999999,Other services nec
+440241,120602,200201,999999,Other financial services nec
+440244,120602,200302,201501,Other financial services nec
+440246,120503,200302,999999,Health insurance
+440247,120602,200402,999999,Other financial services nec
+440248,120602,200402,201801,Other financial services nec
+440250,120602,200402,999999,Other financial services nec
+440251,100000,200502,999999,Education
+440252,120602,200502,999999,Other financial services nec
+440254,120700,200502,999999,Other services nec
+440255,120602,200702,999999,Other financial services nec
+440256,120602,200702,999999,Other financial services nec
+440257,120502,201002,999999,House contents insurance
+440258,120700,201102,999999,Other services nec
+440301,80100,199602,999999,Postal services
+440401,80200,199602,999999,Telephone and telefax equipment and services
+440402,80200,199702,999999,Telephone and telefax equipment and services
+440403,80200,200102,999999,Telephone and telefax equipment and services
+440405,80200,200302,999999,Telephone and telefax equipment and services
+440406,80200,200402,999999,Telephone and telefax equipment and services
+440407,80200,200702,201101,Telephone and telefax equipment and services
+440408,80200,201102,999999,Telephone and telefax equipment and services
+440409,80200,201202,999999,Telephone and telefax equipment and services
+510101,30102,199602,202201,Garments
+510102,30102,199602,200401,Garments
+510104,30102,199602,999999,Garments
+510105,30102,199602,199701,Garments
+510106,30102,199602,999999,Garments
+510107,30102,199602,199701,Garments
+510108,30102,199602,999999,Garments
+510109,30102,199602,999999,Garments
+510110,30102,199602,199801,Garments
+510113,30102,199602,999999,Garments
+510114,30102,199602,199701,Garments
+510115,30102,199702,200101,Garments
+510116,30102,199702,200301,Garments
+510117,30102,199702,999999,Garments
+510118,30102,199702,999999,Garments
+510119,30102,199702,200101,Garments
+510120,30102,199702,999999,Garments
+510121,30102,199702,201101,Garments
+510122,30102,199702,999999,Garments
+510123,30102,199802,200201,Garments
+510124,30102,200002,999999,Garments
+510125,30102,200002,200601,Garments
+510126,30102,200202,999999,Garments
+510127,30102,200302,999999,Garments
+510128,30102,200402,999999,Garments
+510129,30102,200402,200601,Garments
+510130,30102,200602,999999,Garments
+510131,30102,201102,999999,Garments
+510132,30102,201302,999999,Garments
+510133,30102,202102,999999,Garments
+510134,30102,202202,999999,Garments
+510201,30102,199602,199701,Garments
+510202,30102,199602,200101,Garments
+510203,30102,199602,200101,Garments
+510204,30102,199602,200601,Garments
+510205,30102,199602,200601,Garments
+510206,30102,199602,999999,Garments
+510207,30102,199602,201601,Garments
+510208,30102,199602,999999,Garments
+510209,30102,199602,200101,Garments
+510210,30102,199602,200101,Garments
+510211,30102,199602,200101,Garments
+510212,30102,199602,999999,Garments
+510213,30102,199602,200101,Garments
+510214,30102,199602,200401,Garments
+510215,30102,199602,999999,Garments
+510217,30102,199602,199901,Garments
+510218,30102,199602,200001,Garments
+510219,30102,199702,999999,Garments
+510220,30102,199702,200101,Garments
+510221,30102,199702,200101,Garments
+510222,30102,199702,200101,Garments
+510223,30102,199702,999999,Garments
+510224,30102,199702,200201,Garments
+510225,30102,199702,201101,Garments
+510226,30102,199702,200101,Garments
+510227,30102,199702,200101,Garments
+510228,30102,199702,200001,Garments
+510229,30102,199702,200301,Garments
+510230,30102,199702,200101,Garments
+510231,30102,199702,200401,Garments
+510232,30102,199702,200101,Garments
+510233,30102,199902,999999,Garments
+510234,30102,200002,200601,Garments
+510235,30102,200102,999999,Garments
+510236,30102,200102,999999,Garments
+510237,30102,200102,999999,Garments
+510238,30102,200102,999999,Garments
+510239,30102,200102,200201,Garments
+510240,30102,200102,200201,Garments
+510241,30102,200102,200601,Garments
+510242,30102,200102,200301,Garments
+510243,30102,200102,200301,Garments
+510244,30102,200102,999999,Garments
+510245,30102,200202,999999,Garments
+510246,30102,200202,999999,Garments
+510247,30102,200302,200601,Garments
+510248,30102,200402,999999,Garments
+510249,30102,200402,999999,Garments
+510250,30102,200602,999999,Garments
+510251,30102,200602,201101,Garments
+510252,30102,200602,202101,Garments
+510253,30102,200602,200801,Garments
+510254,30102,200602,999999,Garments
+510255,30102,200602,999999,Garments
+510256,30102,200802,999999,Garments
+510257,30102,201102,999999,Garments
+510258,30102,201602,999999,Garments
+510259,30102,201602,999999,Garments
+510260,30102,201802,999999,Garments
+510261,30102,202102,999999,Garments
+510301,30102,199602,200201,Garments
+510303,30102,199602,200101,Garments
+510305,30102,199602,200201,Garments
+510306,30102,199602,200201,Garments
+510307,30102,199602,200101,Garments
+510308,30102,199602,200101,Garments
+510309,30102,199602,200101,Garments
+510310,30102,199602,200101,Garments
+510311,30102,199602,199901,Garments
+510312,30102,199602,200201,Garments
+510313,30102,199602,200101,Garments
+510314,30102,199602,200201,Garments
+510315,30102,199602,200201,Garments
+510316,30102,199902,200201,Garments
+510317,30102,200102,200201,Garments
+510318,30102,200102,200201,Garments
+510319,30102,200102,200201,Garments
+510320,30102,200102,200201,Garments
+510321,30102,200102,200201,Garments
+510322,30102,200102,200201,Garments
+510323,30102,200202,200501,Garments
+510324,30102,200202,999999,Garments
+510325,30102,200202,200601,Garments
+510326,30102,200202,200401,Garments
+510328,30102,200202,999999,Garments
+510329,30102,200202,200501,Garments
+510330,30102,200202,999999,Garments
+510331,30102,200202,200601,Garments
+510333,30102,200202,200401,Garments
+510334,30102,200202,200601,Garments
+510335,30102,200202,200501,Garments
+510336,30102,200202,999999,Garments
+510339,30102,200202,200601,Garments
+510340,30102,200402,999999,Garments
+510341,30102,200502,202101,Garments
+510342,30102,200602,201101,Garments
+510343,30102,200602,201101,Garments
+510344,30102,200602,999999,Garments
+510345,30102,200602,201601,Garments
+510346,30102,200602,202101,Garments
+510347,30102,201102,999999,Garments
+510348,30102,201602,999999,Garments
+510349,30102,201802,999999,Garments
+510350,30102,202102,999999,Garments
+510351,30102,202102,999999,Garments
+510352,30102,202102,999999,Garments
+510402,30102,199602,999999,Garments
+510404,30102,199602,200301,Garments
+510405,30102,199602,999999,Garments
+510406,30102,199602,999999,Garments
+510407,30102,199602,999999,Garments
+510409,30102,199602,200301,Garments
+510410,30102,199602,202201,Garments
+510411,30102,199602,202201,Garments
+510413,30102,199602,999999,Garments
+510415,30102,199602,999999,Garments
+510416,30102,199602,202201,Garments
+510418,30103,199602,200501,Other clothing and clothing accessories
+510419,30103,199602,999999,Other clothing and clothing accessories
+510424,30103,199602,199701,Other clothing and clothing accessories
+510426,30102,199602,200501,Garments
+510427,30102,199602,200301,Garments
+510428,30103,199602,201101,Other clothing and clothing accessories
+510429,30103,199702,999999,Other clothing and clothing accessories
+510430,30103,199902,200301,Other clothing and clothing accessories
+510431,30103,200102,200601,Other clothing and clothing accessories
+510432,30103,201102,999999,Other clothing and clothing accessories
+510433,30102,201702,999999,Garments
+510434,30103,201902,999999,Other clothing and clothing accessories
+510435,30102,202202,999999,Garments
+510436,30102,202202,999999,Garments
+510437,30102,202202,999999,Garments
+510438,30102,202202,999999,Garments
+510501,30200,199602,999999,Footwear including repairs
+510502,30200,199602,199701,Footwear including repairs
+510503,30200,199602,200401,Footwear including repairs
+510504,30200,199602,200401,Footwear including repairs
+510505,30200,199602,200601,Footwear including repairs
+510506,30200,199602,999999,Footwear including repairs
+510507,30200,199602,999999,Footwear including repairs
+510508,30200,199602,999999,Footwear including repairs
+510510,30200,199602,200701,Footwear including repairs
+510511,30200,199602,200601,Footwear including repairs
+510512,30200,199602,200801,Footwear including repairs
+510513,30200,199602,200201,Footwear including repairs
+510514,30200,199602,200001,Footwear including repairs
+510515,30200,199702,999999,Footwear including repairs
+510516,30200,199702,999999,Footwear including repairs
+510517,30200,199702,999999,Footwear including repairs
+510518,30200,199702,200401,Footwear including repairs
+510519,30200,199702,200401,Footwear including repairs
+510520,30200,199702,200001,Footwear including repairs
+510521,30200,199702,200201,Footwear including repairs
+510522,30200,199702,200701,Footwear including repairs
+510523,30200,199702,200401,Footwear including repairs
+510524,30200,200002,200301,Footwear including repairs
+510525,30200,200002,200501,Footwear including repairs
+510526,30200,200202,201001,Footwear including repairs
+510527,30200,200202,201201,Footwear including repairs
+510528,30200,200302,999999,Footwear including repairs
+510529,30200,200402,999999,Footwear including repairs
+510530,30200,200402,999999,Footwear including repairs
+510531,30200,200402,201101,Footwear including repairs
+510532,30200,200402,201101,Footwear including repairs
+510533,30200,201102,999999,Footwear including repairs
+510534,30200,201202,999999,Footwear including repairs
+510535,30200,201402,999999,Footwear including repairs
+520102,120302,199602,199701,Other personal effects
+520103,120302,199602,999999,Other personal effects
+520104,120301,199602,200301,"Jewellery, clocks and watches"
+520105,120301,199602,200401,"Jewellery, clocks and watches"
+520106,120301,199602,202101,"Jewellery, clocks and watches"
+520108,60102,199602,201101,Other medical and therapeutic equipment
+520109,120302,199602,999999,Other personal effects
+520111,120302,199602,199701,Other personal effects
+520113,90103,199602,200501,Data processing equipment
+520114,120301,199602,200801,"Jewellery, clocks and watches"
+520115,60102,199602,201301,Other medical and therapeutic equipment
+520116,120301,199602,200301,"Jewellery, clocks and watches"
+520117,120301,199602,200501,"Jewellery, clocks and watches"
+520118,50400,199602,999999,"Glassware, tableware and household utensils"
+520119,120302,199602,200001,Other personal effects
+520120,120302,199702,199901,Other personal effects
+520121,120302,199702,200801,Other personal effects
+520122,120302,199902,200501,Other personal effects
+520123,120301,200002,999999,"Jewellery, clocks and watches"
+520124,50101,200102,200401,Furniture and furnishings
+520125,60102,200202,200901,Other medical and therapeutic equipment
+520126,120302,200202,200701,Other personal effects
+520127,80200,200202,200301,Telephone and telefax equipment and services
+520128,60102,200302,200701,Other medical and therapeutic equipment
+520129,60102,200302,201601,Other medical and therapeutic equipment
+520130,120301,200302,999999,"Jewellery, clocks and watches"
+520131,120301,200402,999999,"Jewellery, clocks and watches"
+520132,50101,200402,999999,Furniture and furnishings
+520133,120301,200502,200701,"Jewellery, clocks and watches"
+520134,120302,200502,999999,Other personal effects
+520135,120301,200702,999999,"Jewellery, clocks and watches"
+520136,120302,200802,999999,Other personal effects
+520137,120301,200802,999999,"Jewellery, clocks and watches"
+520138,60102,201102,999999,Other medical and therapeutic equipment
+520139,60102,201302,999999,Other medical and therapeutic equipment
+520140,120301,201402,999999,"Jewellery, clocks and watches"
+520141,80200,201502,999999,Telephone and telefax equipment and services
+520142,50400,202002,999999,"Glassware, tableware and household utensils"
+520143,80200,202102,999999,Telephone and telefax equipment and services
+520201,60101,199602,199701,Pharmaceutical products
+520202,60101,199602,999999,Pharmaceutical products
+520203,60101,199602,199701,Pharmaceutical products
+520206,120102,199602,999999,Appliances and products for personal care
+520207,60101,200001,999999,Pharmaceutical products
+520208,120102,199602,200401,Appliances and products for personal care
+520209,120102,199602,999999,Appliances and products for personal care
+520213,120102,199602,999999,Appliances and products for personal care
+520214,120102,199602,201001,Appliances and products for personal care
+520215,120102,199602,999999,Appliances and products for personal care
+520216,120102,199602,999999,Appliances and products for personal care
+520217,120102,199602,199701,Appliances and products for personal care
+520219,120102,199602,999999,Appliances and products for personal care
+520220,60102,199602,199901,Other medical and therapeutic equipment
+520221,120102,199602,200301,Appliances and products for personal care
+520222,60101,199602,999999,Pharmaceutical products
+520223,120102,199602,999999,Appliances and products for personal care
+520224,60102,199602,199901,Other medical and therapeutic equipment
+520225,120102,199602,200001,Appliances and products for personal care
+520226,120102,199602,999999,Appliances and products for personal care
+520227,60101,199702,999999,Pharmaceutical products
+520228,60102,199702,999999,Other medical and therapeutic equipment
+520229,120102,199702,199901,Appliances and products for personal care
+520230,60102,199902,999999,Other medical and therapeutic equipment
+520231,60102,199902,200601,Other medical and therapeutic equipment
+520232,120102,199902,200101,Appliances and products for personal care
+520233,120102,200002,200201,Appliances and products for personal care
+520234,120102,200102,999999,Appliances and products for personal care
+520235,120102,200102,999999,Appliances and products for personal care
+520236,120102,200202,999999,Appliances and products for personal care
+520237,120102,200302,999999,Appliances and products for personal care
+520238,120102,200302,999999,Appliances and products for personal care
+520239,120102,200302,200501,Appliances and products for personal care
+520240,120102,200402,201001,Appliances and products for personal care
+520241,120102,200502,999999,Appliances and products for personal care
+520242,60101,200602,999999,Pharmaceutical products
+520243,120102,200602,999999,Appliances and products for personal care
+520244,120102,200702,999999,Appliances and products for personal care
+520245,60101,201002,999999,Pharmaceutical products
+520246,120102,201002,999999,Appliances and products for personal care
+520247,120102,201002,999999,Appliances and products for personal care
+520248,120102,201102,999999,Appliances and products for personal care
+520249,120102,201202,999999,Appliances and products for personal care
+520250,120102,201602,999999,Appliances and products for personal care
+520251,60101,201702,999999,Pharmaceutical products
+520252,120102,201802,999999,Appliances and products for personal care
+520253,120102,202002,999999,Appliances and products for personal care
+520254,120102,202102,999999,Appliances and products for personal care
+520301,120101,199602,999999,Hairdressing and personal grooming establishments
+520303,120101,199602,999999,Hairdressing and personal grooming establishments
+520304,60202,200001,200301,Dental services
+520305,120503,200001,999999,Health insurance
+520306,120503,200001,999999,Health insurance
+520309,60201,200001,201001,Medical services and paramedical services
+520310,80100,199602,199701,Postal services
+520311,120101,199602,999999,Hairdressing and personal grooming establishments
+520312,120700,200002,200101,Other services nec
+520313,60201,200001,999999,Medical services and paramedical services
+520314,120400,200101,200201,Social protection
+520315,120400,200101,200201,Social protection
+520316,60300,200101,200201,Hospital services
+520317,60300,200101,200201,Hospital services
+520318,120101,201502,999999,Hairdressing and personal grooming establishments
+520319,120400,200102,999999,Social protection
+520320,120700,200102,200801,Other services nec
+520321,60300,200101,999999,Hospital services
+520322,60300,200101,999999,Hospital services
+520323,120101,200202,201801,Hairdressing and personal grooming establishments
+520324,120400,200202,999999,Social protection
+520325,60300,200202,999999,Hospital services
+520326,60202,200302,999999,Dental services
+520327,60202,200302,999999,Dental services
+520328,120503,200302,999999,Health insurance
+520329,60300,200502,200701,Hospital services
+520330,60300,200302,999999,Hospital services
+520331,120101,200402,999999,Hairdressing and personal grooming establishments
+520332,60201,200502,999999,Medical services and paramedical services
+520333,90303,201502,999999,"Gardens, plants and flowers"
+610101,70191,199602,999999,Second hand cars
+610102,70191,199602,999999,Second hand cars
+610103,70181,199602,199801,New cars
+610104,70102,199602,200401,Motorcycles and bicycles
+610105,70102,199602,200401,Motorcycles and bicycles
+610106,70102,199602,200401,Motorcycles and bicycles
+610107,70102,199602,200401,Motorcycles and bicycles
+610108,70181,199602,199801,New cars
+610109,70181,199602,201201,New cars
+610110,90201,200001,999999,Major durables for in/outdoor recreation
+610111,90201,200002,200301,Major durables for in/outdoor recreation
+610112,70102,200402,999999,Motorcycles and bicycles
+610113,70181,201202,999999,New cars
+610114,70181,202102,999999,New cars
+610201,70203,199602,199701,Maintenance and repairs
+610203,70204,199802,200001,Other services
+610204,70201,199602,999999,Spare parts and accessories
+610207,70201,199602,999999,Spare parts and accessories
+610209,70203,199602,200201,Maintenance and repairs
+610210,70203,199602,200201,Maintenance and repairs
+610211,70201,199602,199901,Spare parts and accessories
+610212,70201,199602,202001,Spare parts and accessories
+610213,70204,199602,200401,Other services
+610214,70203,199602,200401,Maintenance and repairs
+610217,70201,199602,201301,Spare parts and accessories
+610219,70201,199602,199901,Spare parts and accessories
+610221,70201,199602,999999,Spare parts and accessories
+610222,120302,199602,200601,Other personal effects
+610223,70201,199802,200801,Spare parts and accessories
+610224,70201,199802,199901,Spare parts and accessories
+610225,70203,199702,200601,Maintenance and repairs
+610226,70201,199902,201701,Spare parts and accessories
+610227,70204,199902,999999,Other services
+610228,70203,200202,999999,Maintenance and repairs
+610229,70203,200302,201401,Maintenance and repairs
+610230,70204,200302,200401,Other services
+610231,70203,200402,999999,Maintenance and repairs
+610232,70203,200402,999999,Maintenance and repairs
+610233,70203,200602,201501,Maintenance and repairs
+610234,70203,200602,201501,Maintenance and repairs
+610235,70203,200602,999999,Maintenance and repairs
+610236,70203,200602,999999,Maintenance and repairs
+610237,70201,201302,999999,Spare parts and accessories
+610238,70203,201402,999999,Maintenance and repairs
+610239,70203,201502,202201,Maintenance and repairs
+610240,70203,201502,201901,Maintenance and repairs
+610241,70203,201902,999999,Maintenance and repairs
+610242,70203,202202,999999,Maintenance and repairs
+610301,70202,199602,200301,Fuels and lubricants
+610303,70202,199602,999999,Fuels and lubricants
+610304,70202,199602,200701,Fuels and lubricants
+610305,70202,199602,200701,Fuels and lubricants
+610306,70202,199602,199701,Fuels and lubricants
+610309,70202,200702,999999,Fuels and lubricants
+610310,70202,200702,999999,Fuels and lubricants
+610409,70204,201202,999999,Other services
+610417,120504,199602,999999,Transport insurance
+620101,70301,199602,999999,Passenger transport by railway
+620102,70301,199602,200701,Passenger transport by railway
+620103,70301,199602,200701,Passenger transport by railway
+620104,70301,199602,200701,Passenger transport by railway
+620105,70301,199602,999999,Passenger transport by railway
+620106,70301,199802,999999,Passenger transport by railway
+620107,70301,200702,999999,Passenger transport by railway
+620201,70302,199602,200701,Passenger transport by road
+620202,70302,199602,200701,Passenger transport by road
+620203,70302,199602,999999,Passenger transport by road
+620204,70302,199602,200701,Passenger transport by road
+620205,70302,200702,999999,Passenger transport by road
+620302,70302,199602,999999,Passenger transport by road
+620303,70204,199602,999999,Other services
+620304,120302,199602,999999,Other personal effects
+620305,70102,199602,200401,Motorcycles and bicycles
+620307,70204,199602,999999,Other services
+620308,70302,199602,999999,Passenger transport by road
+620309,30103,200002,200501,Other clothing and clothing accessories
+620310,70303,199602,999999,Passenger transport by air
+620311,70304,199602,999999,Passenger transport by sea and inland waterway
+620312,70102,199802,200501,Motorcycles and bicycles
+620313,70204,199702,999999,Other services
+620314,90201,200302,999999,Major durables for in/outdoor recreation
+620315,70204,200402,999999,Other services
+620316,70102,200402,200501,Motorcycles and bicycles
+620317,70102,200502,999999,Motorcycles and bicycles
+620318,70102,200502,999999,Motorcycles and bicycles
+620319,30103,201702,999999,Other clothing and clothing accessories
+620320,70204,202002,999999,Other services
+620321,120302,202202,999999,Other personal effects
+630104,90101,199602,200001,Reception and reproduction of sound and pictures
+630105,90101,199602,200701,Reception and reproduction of sound and pictures
+630106,90101,199602,200701,Reception and reproduction of sound and pictures
+630108,90101,199602,199701,Reception and reproduction of sound and pictures
+630109,90101,199602,200201,Reception and reproduction of sound and pictures
+630110,90101,199602,199801,Reception and reproduction of sound and pictures
+630111,90101,199602,199701,Reception and reproduction of sound and pictures
+630112,90101,199702,200501,Reception and reproduction of sound and pictures
+630113,90101,199702,200701,Reception and reproduction of sound and pictures
+630114,90103,199602,200301,Data processing equipment
+630115,90101,199802,200601,Reception and reproduction of sound and pictures
+630116,90201,199902,200301,Major durables for in/outdoor recreation
+630117,90101,199902,200101,Reception and reproduction of sound and pictures
+630118,90103,199902,200401,Data processing equipment
+630119,90101,200002,200101,Reception and reproduction of sound and pictures
+630120,90101,200102,200401,Reception and reproduction of sound and pictures
+630121,90101,200102,200401,Reception and reproduction of sound and pictures
+630122,90103,200102,999999,Data processing equipment
+630123,90101,200202,201401,Reception and reproduction of sound and pictures
+630124,90103,200302,200501,Data processing equipment
+630125,90101,200302,200701,Reception and reproduction of sound and pictures
+630126,90101,200402,201401,Reception and reproduction of sound and pictures
+630127,90103,200302,999999,Data processing equipment
+630128,90101,200402,200501,Reception and reproduction of sound and pictures
+630129,90103,200502,999999,Data processing equipment
+630130,90101,200502,200601,Reception and reproduction of sound and pictures
+630131,90101,200502,200601,Reception and reproduction of sound and pictures
+630132,90101,200602,200801,Reception and reproduction of sound and pictures
+630133,90101,200602,200701,Reception and reproduction of sound and pictures
+630134,90101,200602,200701,Reception and reproduction of sound and pictures
+630135,90101,200602,200701,Reception and reproduction of sound and pictures
+630136,70201,200702,201501,Spare parts and accessories
+630137,90101,200702,201101,Reception and reproduction of sound and pictures
+630138,90101,200702,999999,Reception and reproduction of sound and pictures
+630139,90101,200702,201101,Reception and reproduction of sound and pictures
+630140,90101,200702,200801,Reception and reproduction of sound and pictures
+630141,90101,200802,200901,Reception and reproduction of sound and pictures
+630142,90101,200802,200901,Reception and reproduction of sound and pictures
+630143,90101,200902,201301,Reception and reproduction of sound and pictures
+630144,90101,200902,201001,Reception and reproduction of sound and pictures
+630145,90101,200902,201001,Reception and reproduction of sound and pictures
+630146,90101,201002,202001,Reception and reproduction of sound and pictures
+630147,90101,201002,201501,Reception and reproduction of sound and pictures
+630148,90101,201002,201101,Reception and reproduction of sound and pictures
+630149,90101,201102,201501,Reception and reproduction of sound and pictures
+630150,90101,201102,201801,Reception and reproduction of sound and pictures
+630151,90101,201102,201801,Reception and reproduction of sound and pictures
+630152,90101,201102,202001,Reception and reproduction of sound and pictures
+630153,90103,201202,999999,Data processing equipment
+630154,90101,201302,201801,Reception and reproduction of sound and pictures
+630155,90101,201402,202001,Reception and reproduction of sound and pictures
+630156,90101,201502,999999,Reception and reproduction of sound and pictures
+630157,90101,201502,201801,Reception and reproduction of sound and pictures
+630158,90101,201502,201901,Reception and reproduction of sound and pictures
+630159,90101,201802,999999,Reception and reproduction of sound and pictures
+630160,90101,201802,999999,Reception and reproduction of sound and pictures
+630161,90101,201802,999999,Reception and reproduction of sound and pictures
+630162,90101,201902,999999,Reception and reproduction of sound and pictures
+630163,90103,201902,999999,Data processing equipment
+630164,90101,202002,999999,Reception and reproduction of sound and pictures
+630165,90101,202002,999999,Reception and reproduction of sound and pictures
+630204,90104,199602,200201,Recording media
+630205,90104,199602,200201,Recording media
+630206,90104,199602,200701,Recording media
+630207,90104,199602,200801,Recording media
+630208,90104,199602,200401,Recording media
+630209,90104,199602,200101,Recording media
+630210,90104,199602,199901,Recording media
+630211,90103,199702,199801,Data processing equipment
+630212,90103,199702,199801,Data processing equipment
+630213,90104,199802,200801,Recording media
+630214,90104,199802,200101,Recording media
+630215,90104,199802,199901,Recording media
+630216,90104,199902,200001,Recording media
+630217,90104,200002,200301,Recording media
+630218,90104,200102,200401,Recording media
+630219,90104,200202,200501,Recording media
+630220,90104,200302,201601,Recording media
+630221,90104,200402,200701,Recording media
+630222,90104,200402,200701,Recording media
+630223,90104,200402,999999,Recording media
+630224,90104,200502,999999,Recording media
+630225,90104,200602,999999,Recording media
+630226,90104,200502,999999,Recording media
+630227,90104,200702,201601,Recording media
+630228,90104,200702,999999,Recording media
+630229,90104,200702,999999,Recording media
+630230,90104,200802,999999,Recording media
+630231,90104,200802,999999,Recording media
+630232,90104,200902,999999,Recording media
+630233,90104,201002,999999,Recording media
+630234,90103,201602,999999,Data processing equipment
+630305,90302,199602,200301,Equipment for sport and open-air recreation
+630306,90302,199602,200601,Equipment for sport and open-air recreation
+630307,90302,199602,200201,Equipment for sport and open-air recreation
+630309,90301,199602,999999,"Games, toys and hobbies"
+630312,90301,199602,999999,"Games, toys and hobbies"
+630313,90301,199602,999999,"Games, toys and hobbies"
+630314,90301,199602,999999,"Games, toys and hobbies"
+630317,90302,199902,999999,Equipment for sport and open-air recreation
+630318,90104,199602,200801,Recording media
+630320,90402,199602,201201,Cultural services
+630322,90102,199602,200701,"Photographic, cinematographic and optical equipment"
+630323,90402,199602,200701,Cultural services
+630324,90301,199602,200501,"Games, toys and hobbies"
+630325,90301,199602,199701,"Games, toys and hobbies"
+630326,90301,199602,200401,"Games, toys and hobbies"
+630327,90301,199602,200101,"Games, toys and hobbies"
+630328,90102,199602,200501,"Photographic, cinematographic and optical equipment"
+630329,90302,199802,200101,Equipment for sport and open-air recreation
+630330,90301,199902,200101,"Games, toys and hobbies"
+630331,90302,200002,200501,Equipment for sport and open-air recreation
+630332,90301,200102,999999,"Games, toys and hobbies"
+630333,90301,200102,999999,"Games, toys and hobbies"
+630334,90301,200102,999999,"Games, toys and hobbies"
+630335,90102,200202,201001,"Photographic, cinematographic and optical equipment"
+630336,90302,200202,999999,Equipment for sport and open-air recreation
+630337,90302,200202,200501,Equipment for sport and open-air recreation
+630338,90302,200302,200401,Equipment for sport and open-air recreation
+630339,90102,200302,200401,"Photographic, cinematographic and optical equipment"
+630340,90302,200402,999999,Equipment for sport and open-air recreation
+630341,90301,200402,999999,"Games, toys and hobbies"
+630342,90201,200402,999999,Major durables for in/outdoor recreation
+630343,90302,200402,999999,Equipment for sport and open-air recreation
+630344,90102,200402,201401,"Photographic, cinematographic and optical equipment"
+630345,90302,200402,999999,Equipment for sport and open-air recreation
+630346,90302,200502,201301,Equipment for sport and open-air recreation
+630347,90301,200502,999999,"Games, toys and hobbies"
+630348,90201,200502,999999,Major durables for in/outdoor recreation
+630349,90102,200502,200801,"Photographic, cinematographic and optical equipment"
+630352,90301,200602,201701,"Games, toys and hobbies"
+630353,90301,200602,201801,"Games, toys and hobbies"
+630354,90402,200602,200801,Cultural services
+630357,90302,200602,999999,Equipment for sport and open-air recreation
+630358,90104,200802,999999,Recording media
+630359,90402,200802,999999,Cultural services
+630360,90102,200802,200901,"Photographic, cinematographic and optical equipment"
+630361,90102,200902,201001,"Photographic, cinematographic and optical equipment"
+630362,90301,201002,202001,"Games, toys and hobbies"
+630363,90301,201002,201301,"Games, toys and hobbies"
+630364,90102,201002,201101,"Photographic, cinematographic and optical equipment"
+630365,90301,201102,999999,"Games, toys and hobbies"
+630366,90102,201102,201201,"Photographic, cinematographic and optical equipment"
+630367,90102,201202,201801,"Photographic, cinematographic and optical equipment"
+630368,90301,201302,999999,"Games, toys and hobbies"
+630369,90302,201302,999999,Equipment for sport and open-air recreation
+630370,90102,201402,999999,"Photographic, cinematographic and optical equipment"
+630371,90102,201402,999999,"Photographic, cinematographic and optical equipment"
+630372,90301,201602,999999,"Games, toys and hobbies"
+630373,90301,201702,999999,"Games, toys and hobbies"
+630374,90301,201702,999999,"Games, toys and hobbies"
+630376,90301,201802,999999,"Games, toys and hobbies"
+630377,90102,201802,999999,"Photographic, cinematographic and optical equipment"
+630378,90301,202002,999999,"Games, toys and hobbies"
+630379,90301,202002,999999,"Games, toys and hobbies"
+630380,90301,202002,999999,"Games, toys and hobbies"
+630381,90302,202102,999999,Equipment for sport and open-air recreation
+630382,90301,202202,999999,"Games, toys and hobbies"
+630401,90501,199602,200201,Books
+630402,90501,199602,200201,Books
+630403,90501,199602,200201,Books
+630404,90501,199602,200101,Books
+630405,90501,199602,200201,Books
+630406,90501,199602,200201,Books
+630407,90502,199602,999999,Newspapers and periodicals
+630408,90502,199602,999999,Newspapers and periodicals
+630409,90502,199602,200301,Newspapers and periodicals
+630410,90502,199602,201101,Newspapers and periodicals
+630411,90502,199602,201101,Newspapers and periodicals
+630412,90502,199602,999999,Newspapers and periodicals
+630413,90501,199602,200201,Books
+630414,90501,199602,200101,Books
+630416,90501,199602,200201,Books
+630417,90502,199602,200401,Newspapers and periodicals
+630418,90501,199602,200201,Books
+630419,90502,199602,200401,Newspapers and periodicals
+630420,90501,199602,199701,Books
+630421,90501,199602,199701,Books
+630422,90501,199602,202201,Books
+630423,90501,199702,200501,Books
+630424,90501,199702,201601,Books
+630425,90501,199702,999999,Books
+630426,90501,199702,999999,Books
+630427,90501,200002,200801,Books
+630428,90501,200102,200201,Books
+630429,90501,200102,200201,Books
+630430,90501,200102,200201,Books
+630431,90501,200202,200601,Books
+630432,90501,200202,200601,Books
+630433,90501,200202,200601,Books
+630434,90501,200602,999999,Books
+630435,90501,201102,999999,Books
+630436,90502,201102,999999,Newspapers and periodicals
+630437,90501,201202,999999,Books
+630438,90501,201302,999999,Books
+630439,90501,201602,999999,Books
+630440,90501,201902,999999,Books
+630504,90303,199602,200501,"Gardens, plants and flowers"
+630505,50500,199602,999999,Tools and equipment for house and garden
+630507,90303,199602,999999,"Gardens, plants and flowers"
+630509,50500,199802,200501,Tools and equipment for house and garden
+630510,90303,199602,999999,"Gardens, plants and flowers"
+630512,90303,199602,201901,"Gardens, plants and flowers"
+630514,90303,199602,201101,"Gardens, plants and flowers"
+630516,50500,199602,200101,Tools and equipment for house and garden
+630517,50500,199602,200101,Tools and equipment for house and garden
+630518,90303,200102,999999,"Gardens, plants and flowers"
+630519,90303,200102,999999,"Gardens, plants and flowers"
+630520,50500,200102,999999,Tools and equipment for house and garden
+630521,50500,200102,200601,Tools and equipment for house and garden
+630522,90303,200302,200701,"Gardens, plants and flowers"
+630523,90303,200502,201501,"Gardens, plants and flowers"
+630524,90303,200802,999999,"Gardens, plants and flowers"
+630525,90303,201402,999999,"Gardens, plants and flowers"
+630526,90303,201902,999999,"Gardens, plants and flowers"
+640101,90402,199602,200011,Cultural services
+640108,90402,199602,200201,Cultural services
+640110,90402,199602,200901,Cultural services
+640111,90402,199602,199701,Cultural services
+640112,90402,199602,199701,Cultural services
+640114,90402,199602,199701,Cultural services
+640116,90402,199602,199701,Cultural services
+640117,90402,199602,199701,Cultural services
+640118,90402,199602,200701,Cultural services
+640119,90402,199602,999999,Cultural services
+640120,90402,199702,201201,Cultural services
+640121,90402,199702,200901,Cultural services
+640122,90402,200402,200501,Cultural services
+640123,90402,200402,200501,Cultural services
+640124,90402,201202,999999,Cultural services
+640125,90402,200902,999999,Cultural services
+640126,90402,200902,201401,Cultural services
+640127,90402,201402,999999,Cultural services
+640204,90401,199602,200201,Recreational and sporting services
+640205,90401,199602,200201,Recreational and sporting services
+640206,90402,199602,200401,Cultural services
+640207,90402,201202,201601,Cultural services
+640209,90401,199602,200001,Recreational and sporting services
+640210,90402,199602,200601,Cultural services
+640211,90402,199602,999999,Cultural services
+640212,90402,199602,999999,Cultural services
+640213,100000,199602,200501,Education
+640214,120400,200001,200601,Social protection
+640215,90401,199602,199901,Recreational and sporting services
+640217,90401,201202,999999,Recreational and sporting services
+640218,90401,199602,200101,Recreational and sporting services
+640219,90401,199602,999999,Recreational and sporting services
+640220,90401,199602,200301,Recreational and sporting services
+640221,90401,199602,999999,Recreational and sporting services
+640222,90401,199602,999999,Recreational and sporting services
+640223,90401,199902,200301,Recreational and sporting services
+640224,90401,200002,999999,Recreational and sporting services
+640225,90401,200002,200101,Recreational and sporting services
+640226,90401,200102,999999,Recreational and sporting services
+640227,100000,200102,200301,Education
+640228,90401,200102,999999,Recreational and sporting services
+640229,90401,200202,999999,Recreational and sporting services
+640230,90401,200202,999999,Recreational and sporting services
+640231,90402,200202,200501,Cultural services
+640232,90401,200302,201001,Recreational and sporting services
+640233,90401,200302,201201,Recreational and sporting services
+640234,90402,200402,999999,Cultural services
+640235,90401,200402,201201,Recreational and sporting services
+640236,90402,200402,999999,Cultural services
+640237,90402,200502,200601,Cultural services
+640238,90402,200602,999999,Cultural services
+640239,90402,200602,999999,Cultural services
+640240,90201,200802,999999,Major durables for in/outdoor recreation
+640241,90402,201502,999999,Cultural services
+640242,90401,201502,999999,Recreational and sporting services
+640243,90401,201802,999999,Recreational and sporting services
+640244,90401,202202,999999,Recreational and sporting services
+640301,90600,199602,200501,Package holidays
+640302,90600,200002,200401,Package holidays
+640303,120504,200002,999999,Transport insurance
+640304,90600,200202,999999,Package holidays
+640305,90600,200402,999999,Package holidays
+640306,90600,200402,999999,Package holidays
+640307,90600,200402,999999,Package holidays
+640308,90600,200502,999999,Package holidays
+640309,90600,200502,999999,Package holidays
+640401,90600,199602,200501,Package holidays
+640402,110200,199602,200501,Accommodation services
+640403,110200,199902,999999,Accommodation services
+640404,40100,200002,999999,Actual rentals for housing
+640405,90600,200002,999999,Package holidays
+640406,110200,200502,999999,Accommodation services
+640407,110200,200502,999999,Accommodation services
