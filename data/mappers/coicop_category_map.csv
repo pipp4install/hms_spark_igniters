@@ -1,0 +1,138 @@
+coicop4_id,desc,cat
+0,CPI Overall Index,A
+10000,Food and Non-Alcoholic Beverages,D
+10100,Food,G
+10101,Bread and cereals,S
+10102,Meat,S
+10103,Fish,S
+10104,"Milk, cheese and eggs",S
+10105,Oils and fats,S
+10106,Fruit,S
+10107,Vegetables including potatoes and tubers,S
+10108,"Sugar, jam, syrups, chocolate and confectionery",S
+10109,Food products nec,S
+10200,Non-alcoholic beverages,G
+10201,"Coffee, tea and cocoa",S
+10202,"Mineral waters, soft drinks and juices",S
+20000,Alcoholic Beverages and Tobacco,D
+20100,Alcoholic beverages,G
+20101,Spirits,S
+20102,Wine,S
+20103,Beer,S
+20200,Tobacco,G
+20200,Tobacco,S
+30000,Clothing and Footwear,D
+30100,Clothing,G
+30102,Garments,S
+30103,Other clothing and clothing accessories,S
+30104,"Cleaning, repair and hire of clothing",S
+30200,Footwear including repairs,G
+30200,Footwear including repairs,S
+40000,"Housing, Water, Electricity, Gas and other Fuels",D
+40100,Actual rentals for housing,G
+40100,Actual rentals for housing,S
+40300,Regular maintenance and repair of the dwelling,G
+40301,Materials for maintenance and repair,S
+40302,Services for maintenance and repair,S
+40400,Miscellaneous services relating to the dwelling,G
+40401,Water supply,S
+40403,Sewerage collection,S
+40500,"Electricity, gas and other fuels",G
+40501,Electricity,S
+40502,Gas All,S
+40503,Liquid Fuels,S
+40504,Solid Fuels,S
+50000,"Furniture, Household Equipment and Maintenance",D
+50100,"Furniture, furnishings and carpets",G
+50101,Furniture and furnishings,S
+50102,Carpets and other floor coverings,S
+50200,Household textiles,G
+50200,Household textiles,S
+50300,"Household appliances, fitting and repairs",G
+50301,Major appliances and small electric goods,S
+50303,Repair of household appliances,S
+50400,"Glassware, tableware and household utensils",G
+50400,"Glassware, tableware and household utensils",S
+50500,Tools and equipment for house and garden,G
+50500,Tools and equipment for house and garden,S
+50600,Goods and services for routine maintenance,G
+50601,Non-durable household goods,S
+50602,Domestic services and household services,S
+60000,Health,D
+60100,"Medical products, appliances and equipment",G
+60101,Pharmaceutical products,S
+60102,Other medical and therapeutic equipment,S
+60200,Out-patient services,G
+60201,Medical services and paramedical services,S
+60202,Dental services,S
+60300,Hospital services,G
+60300,Hospital services,S
+70000,Transport,D
+70100,Purchase of vehicles,G
+70102,Motorcycles and bicycles,S
+70181,New cars,S
+70191,Second hand cars,S
+70200,Operation of personal transport equipment,G
+70201,Spare parts and accessories,S
+70202,Fuels and lubricants,S
+70203,Maintenance and repairs,S
+70204,Other services,S
+70300,Transport services,G
+70301,Passenger transport by railway,S
+70302,Passenger transport by road,S
+70303,Passenger transport by air,S
+70304,Passenger transport by sea and inland waterway,S
+80000,Communication,D
+80100,Postal services,G
+80100,Postal services,S
+80200,Telephone and telefax equipment and services,G
+80200,Telephone and telefax equipment and services,S
+90000,Recreation and Culture,D
+90100,Audio-visual equipment and related products,G
+90101,Reception and reproduction of sound and pictures,S
+90102,"Photographic, cinematographic and optical equipment",S
+90103,Data processing equipment,S
+90104,Recording media,S
+90105,Repair of audio-visual equipment & related products,S
+90200,Other major durables for recreation and culture,G
+90201,Major durables for in/outdoor recreation,S
+90300,"Other recreational items, gardens and pets",G
+90301,"Games, toys and hobbies",S
+90302,Equipment for sport and open-air recreation,S
+90303,"Gardens, plants and flowers",S
+90304,"Pets, related products and services",S
+90400,Recreational and cultural services,G
+90401,Recreational and sporting services,S
+90402,Cultural services,S
+90500,"Books, newspapers and stationery",G
+90501,Books,S
+90502,Newspapers and periodicals,S
+90503,"Misc. printed matter, stationery, drawing materials",S
+90600,Package holidays,G
+90600,Package holidays,S
+100000,Education,D
+100000,Education,G
+100000,Education,S
+110000,Restaurants and Hotels,D
+110100,Catering services,G
+110101,Restaurants & cafes,S
+110102,Canteens,S
+110200,Accommodation services,G
+110200,Accommodation services,S
+120000,Miscellaneous Goods and Services,D
+120100,Personal care,G
+120101,Hairdressing and personal grooming establishments,S
+120102,Appliances and products for personal care,S
+120300,Personal effects nec,G
+120301,"Jewellery, clocks and watches",S
+120302,Other personal effects,S
+120400,Social protection,G
+120400,Social protection,S
+120500,Insurance,G
+120502,House contents insurance,S
+120503,Health insurance,S
+120504,Transport insurance,S
+120600,Financial services nec,G
+120602,Other financial services nec,S
+120700,Other services nec,G
+120700,Other services nec,S
