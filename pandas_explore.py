@@ -57,8 +57,8 @@ def run_clean_and_read_products(url) -> pd.DataFrame():
 def apply_mappers(df, BASE_URL) -> pd.DataFrame:
     """
     Apply:
-        1)  Apply CPI Map. Item ID -> COICOP4 ID
-        2) apply COICOP Category Map. COICOP4 ID -> COICOP4 Description.
+        1) Apply CPI Map. Item ID -> COICOP4 ID
+        2) Apply COICOP Category Map. COICOP4 ID -> COICOP4 Description.
     """
 
     cpi_map = pd.read_csv(
