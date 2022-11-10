@@ -93,4 +93,7 @@ if __name__ == "main":
 
     # Average Price Per Period By Region and Category
     df = df.groupby(["quote_date", "region", "desc"], as_index=False)["price"].sum()
-    df
+    df["quote_date"] = pd.to_datetime(df["quote_date"], format="%Y%m")
+
+    # Save CSV
+    # df.to_csv("./data/processed/prices_processed_by_category_region.csv", index=False)
