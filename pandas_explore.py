@@ -1,13 +1,12 @@
+from pathlib import Path
+import glob
+
 import pandas as pd
 
-BASE_URL = "https://raw.githubusercontent.com/pipp4install/hms_spark_igniters/main/"
 
-PRICE_QUOTES_STEM = "pricequotes202209.csv"
-
-
-def load_data(url):
+def load_data(filepath):
     """Import csv data from GitHub repo."""
-    df = pd.read_csv(url)
+    df = pd.read_csv(filepath)
     df.columns = [col.lower() for col in df.columns]
     df = df[["quote_date", "item_id", "item_desc", "price", "region"]]
     df["item_id"] = df["item_id"].astype("str")
@@ -44,17 +43,17 @@ def decode_region(df):
     return df
 
 
-def run_clean_and_read_products(url) -> pd.DataFrame():
+def run_clean_and_read_products(filepath) -> pd.DataFrame():
     """Clean and Read Products Prices for Month"""
 
-    df = load_data(url)
+    df = load_data(filepath)
     df = sum_price(df)
     df = decode_region(df)
 
     return df
 
 
-def apply_mappers(df, BASE_URL) -> pd.DataFrame:
+def apply_mappers(df) -> pd.DataFrame:
     """
     Apply:
         1) Apply CPI Map. Item ID -> COICOP4 ID
@@ -62,13 +61,11 @@ def apply_mappers(df, BASE_URL) -> pd.DataFrame:
     """
 
     cpi_map = pd.read_csv(
-        BASE_URL + "data/mappers/cpi_classification_framework_2022.csv", dtype="str"
+        "./data/mappers/cpi_classification_framework_2022.csv", dtype="str"
     )
     cpi_map = cpi_map[["item_id", "coicop4_id"]]
 
-    coicop_cat_map = pd.read_csv(
-        BASE_URL + "data/mappers/coicop_category_map.csv", dtype="str"
-    )
+    coicop_cat_map = pd.read_csv("./data/mappers/coicop_category_map.csv", dtype="str")
 
     df = df.merge(cpi_map, on="item_id", how="left")
     df = df.merge(coicop_cat_map, on="coicop4_id", how="left")
@@ -76,9 +73,24 @@ def apply_mappers(df, BASE_URL) -> pd.DataFrame:
     return df
 
 
+def get_prices_filenames() -> list[str]:
+    return [Path(file) for file in glob.glob("./data/prices/*.csv")]
+
+
 if __name__ == "main":
 
-    df = run_clean_and_read_products(BASE_URL + PRICE_QUOTES_STEM)
-    df = apply_mappers(df, BASE_URL)
+    prices_filenames = get_prices_filenames()
 
+    # Read & Process Each Price File
+    dfs = []
+    for price_file in prices_filenames:
+        df = run_clean_and_read_products(price_file)
+        df = apply_mappers(df)
+        dfs.append(df)
+
+    # Union dfs
+    df = pd.concat(dfs)
+
+    # Average Price Per Period By Region and Category
+    df = df.groupby(["quote_date", "region", "desc"], as_index=False)["price"].sum()
     df
