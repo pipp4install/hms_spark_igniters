@@ -17,7 +17,7 @@ def sum_price(df):
     """Sum the price over each unique product and region."""
     return df.groupby(["quote_date", "item_id", "region"], as_index=False)[
         "price"
-    ].sum()
+    ].mean()
 
 
 region_map_dict = {
@@ -92,8 +92,8 @@ if __name__ == "main":
     df = pd.concat(dfs)
 
     # Average Price Per Period By Region and Category
-    df = df.groupby(["quote_date", "region", "desc"], as_index=False)["price"].sum()
+    df = df.groupby(["quote_date", "region", "desc"], as_index=False)["price"].mean()
     df["quote_date"] = pd.to_datetime(df["quote_date"], format="%Y%m")
 
     # Save CSV
-    # df.to_csv("./data/processed/prices_processed_by_category_region.csv", index=False)
+    df.to_csv("./data/processed/prices_processed_by_category_region.csv", index=False)
