@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 # read in price data
 df_prices = pd.read_csv('data/uk_price_quotes.csv')
 
+
 def load_shapefile():
     """Load in geospatial data and drop unwanted columns."""
     region_path = "data/geospatial/eurostat_regions/NUTS_RG_2021.shp"
