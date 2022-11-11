@@ -4,6 +4,7 @@ This is the Github repository for the team HMS Spark Igniters that is part of th
 The data collected for the UK prices was taken from here: https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceindicescpiandretailpricesindexrpiitemindicesandpricequotes.
 
 The data collected for the regional polygon data was taken from here:
+
 https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts
 
 # Streamlit App Getting Started
